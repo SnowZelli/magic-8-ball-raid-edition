@@ -1,12 +1,19 @@
 h1 { 
-    font-weight: 100; font-size: 2.5em;
-    }
-        
+    font-weight: 100; 
+    font-size: 2.5em;
+    color: white;
+}
+
+body{
+    background-image: url("../magic-8-ball-raid-day/imgs/D2\ Crypt.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+       
 #content { 
     width: 1200px; 
     margin: 0 auto; 
     margin-top: 50px; 
-    border: 1px dotted black;       
     text-align: center; 
     font-family: 'Helvetica Neue', arial; 
     font-weight: 100;
@@ -54,4 +61,5 @@ p#answer {
 
 #info {
     font-size: 22px;
+    color: white;
 }
