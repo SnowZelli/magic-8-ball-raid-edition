@@ -20,6 +20,11 @@ body{
     font-weight: 100;
 }
 
+#info {
+    font-size: 22px;
+    color: white;
+}
+
 div.eight-ball {
     background-color: black;
     border: 1px solid black;
@@ -57,7 +62,6 @@ p#answer {
     font-size:36px;
 }
 
-#info {
-    font-size: 22px;
-    color: white;
+p#answer:hover {
+    cursor: crosshair;
 }
