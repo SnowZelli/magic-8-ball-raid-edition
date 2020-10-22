@@ -2,6 +2,7 @@ h1 {
     font-weight: 100; 
     font-size: 2.5em;
     color: white;
+    letter-spacing: 0.50em;
 }
 
 body{
@@ -53,14 +54,7 @@ p#answer {
     padding: 23px;
     color: lightblue;
     letter-spacing: 2px;
-    font-size:18px;
-}
-
-#question {
-    margin: 20px;
-    padding: 10px;
-    width: 400px;
-    font-size:22px;
+    font-size:36px;
 }
 
 #info {
