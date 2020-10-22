@@ -45,6 +45,10 @@ p#eight {
     color: white;
 }
 
+p#eight:hover {
+    cursor: crosshair;
+}
+
 p#answer {
     padding: 23px;
     color: lightblue;
